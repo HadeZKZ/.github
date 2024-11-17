@@ -84,8 +84,6 @@
   <img width="" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="12" alt="react logo"  />
   <img width="" />
-  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="12" alt="visualstudio logo"  />
-  <img width="" />
   <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="12" alt="terraform logo"  />
   <img width="" />
   <img src="https://cdn.simpleicons.org/thealgorithms/00BCB4" height="12" alt="thealgorithms logo"  />
